@@ -34,7 +34,7 @@
 #   MAVEN_SKIP_RC - flag to disable loading of mavenrc files
 # ----------------------------------------------------------------------------
 
-export JAVA_HOME="C:\Program Files (x86)\Java\jdk-11.0.20"
+#export JAVA_HOME="C:\Program Files (x86)\Java\jdk-11.0.20"
 
 if [ -z "$MAVEN_SKIP_RC" ] ; then
 
